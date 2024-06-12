@@ -26,7 +26,7 @@ A list of code snippets, scripts, notebooks, and workflows for reproducing the a
 * [Placekey Notebooks](https://github.com/Placekey/placekey-notebooks) Jupyter notebooks demonstrating functionality of the Placekey python library and Placekey API.
 * [Using Placekey in Tableau](https://github.com/sarahbat/Tableau/tree/master/placekey) Jupyter notebook and Python script demonstrating use in Tableau Desktop and Tableau Prep
 
-<!-- NOTE: Javascript, R, and Go are not currently working
+<!-- NOTE: Javascript and R are not currently working
 ### Javascript
 
 * [Placekey Javascript Library](https://github.com/Placekey/placekey-js) A JavaScript library for working with Placekeys.
@@ -35,11 +35,11 @@ A list of code snippets, scripts, notebooks, and workflows for reproducing the a
 ### R
 * [Placekey R library](https://github.com/JosiahParry/placekey) {placekey} is an R package to interact with the Placekey API, and [Get location info from a Placekey](https://github.com/JosiahParry/placekey#get-location-info-from-a-placekey)
 
+-->
+
 ### Go
 
 * [Unofficial Placekey Go Library](https://github.com/ringsaturn/pk) A Go library with basic geo feature support.
-
--->  
 
 ### Snowflake
 * [Placekey Snowflake External Function](https://github.com/Placekey/snowflake-external-function) External Function for Snowflake which enables users to append Placekeys to their database tables directly from within Snowflake.
